@@ -166,6 +166,7 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/yousuf1.jpg") no-repeat center;
+    background-position: right;
     height: 100vh;
     color: #fff;
     min-height: 500px;
