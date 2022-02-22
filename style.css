@@ -728,5 +728,13 @@ footer span a:hover{
     color: white;
     font-size: 48px;
   }
+  .git{
+
+    font-size: 48px;
+  }
+  .edu{
+
+    list-style-type: none;
+  }
 
   
